@@ -6,9 +6,9 @@ int main()
 
           printf("\n\t:> Name = Thorat Pranali Hanmant\n");
 
-          printf("\n\t:> Course = BCA1 \n");
+          printf("\n\t:> Course = BCA \n");
 
-          printf("\n\t:> Rollno. = 184 \n");
+          printf("\n\t:> Rollno. = 003 \n");
 
           printf("\n\t:> Div = B \n");
 
